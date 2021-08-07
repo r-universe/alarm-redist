@@ -7,4 +7,5 @@
 	path = redist
 	url = https://github.com/alarm-redist/redist
 	shallow = true
+	branch = dev
 	registered = true

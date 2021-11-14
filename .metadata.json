@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "redist",
+    "oncran": true
+  },
+  {
     "package": "geomander",
     "oncran": true
   },

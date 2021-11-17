@@ -9,6 +9,11 @@
 	shallow = true
 	branch = dev
 	registered = true
+[submodule "redistmetrics"]
+	path = redistmetrics
+	url = https://github.com/alarm-redist/redistmetrics
+	shallow = true
+	registered = true
 [submodule "geomander"]
 	path = geomander
 	url = https://github.com/christopherkenny/geomander

@@ -4,8 +4,7 @@
     "oncran": true
   },
   {
-    "package": "redist",
-    "oncran": true
+    "package": "redistmetrics"
   },
   {
     "package": "geomander",

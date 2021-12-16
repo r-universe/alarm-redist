@@ -31,6 +31,6 @@
   },
   {
     "package": "ppmf",
-    "oncran": false
+    "oncran": true
   }
 ]

@@ -1,51 +1,32 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/alarm-redist/universe
-	shallow = true
 	branch = HEAD
 [submodule "redist"]
 	path = redist
 	url = https://github.com/alarm-redist/redist
-	shallow = true
 	branch = dev
-	registered = true
 [submodule "redistmetrics"]
 	path = redistmetrics
 	url = https://github.com/alarm-redist/redistmetrics
-	shallow = true
-	registered = true
 [submodule "geomander"]
 	path = geomander
 	url = https://github.com/christopherkenny/geomander
-	shallow = true
-	registered = true
 [submodule "PL94171"]
 	path = PL94171
 	url = https://github.com/CoryMcCartan/PL94171
-	shallow = true
-	registered = true
 [submodule "wru"]
 	path = wru
 	url = https://github.com/kosukeimai/wru
-	shallow = true
-	registered = true
 [submodule "censable"]
 	path = censable
 	url = https://github.com/christopherkenny/censable
-	shallow = true
-	registered = true
 [submodule "blockpop"]
 	path = blockpop
 	url = https://github.com/CoryMcCartan/blockpop
-	shallow = true
-	registered = true
 [submodule "divseg"]
 	path = divseg
 	url = https://github.com/christopherkenny/divseg
-	shallow = true
-	registered = true
 [submodule "ppmf"]
 	path = ppmf
 	url = https://github.com/christopherkenny/ppmf
-	shallow = true
-	registered = true

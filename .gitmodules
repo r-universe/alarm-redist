@@ -2,6 +2,24 @@
 	path = .registry
 	url = https://github.com/alarm-redist/universe
 	branch = HEAD
+[submodule "PL94171"]
+	path = PL94171
+	url = https://github.com/CoryMcCartan/PL94171
+[submodule "blockpop"]
+	path = blockpop
+	url = https://github.com/CoryMcCartan/blockpop
+[submodule "censable"]
+	path = censable
+	url = https://github.com/christopherkenny/censable
+[submodule "divseg"]
+	path = divseg
+	url = https://github.com/christopherkenny/divseg
+[submodule "geomander"]
+	path = geomander
+	url = https://github.com/christopherkenny/geomander
+[submodule "ppmf"]
+	path = ppmf
+	url = https://github.com/christopherkenny/ppmf
 [submodule "redist"]
 	path = redist
 	url = https://github.com/alarm-redist/redist
@@ -9,24 +27,6 @@
 [submodule "redistmetrics"]
 	path = redistmetrics
 	url = https://github.com/alarm-redist/redistmetrics
-[submodule "geomander"]
-	path = geomander
-	url = https://github.com/christopherkenny/geomander
-[submodule "PL94171"]
-	path = PL94171
-	url = https://github.com/CoryMcCartan/PL94171
 [submodule "wru"]
 	path = wru
 	url = https://github.com/kosukeimai/wru
-[submodule "censable"]
-	path = censable
-	url = https://github.com/christopherkenny/censable
-[submodule "blockpop"]
-	path = blockpop
-	url = https://github.com/CoryMcCartan/blockpop
-[submodule "divseg"]
-	path = divseg
-	url = https://github.com/christopherkenny/divseg
-[submodule "ppmf"]
-	path = ppmf
-	url = https://github.com/christopherkenny/ppmf

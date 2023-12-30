@@ -17,6 +17,9 @@
 [submodule "geomander"]
 	path = geomander
 	url = https://github.com/christopherkenny/geomander
+[submodule "ggredist"]
+	path = ggredist
+	url = https://github.com/alarm-redist/ggredist
 [submodule "ppmf"]
 	path = ppmf
 	url = https://github.com/christopherkenny/ppmf
